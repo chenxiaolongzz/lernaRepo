@@ -1,6 +1,6 @@
 {
   "name": "newrepotwo",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lerna学习项目2",
   "main": "index.js",
   "scripts": {
