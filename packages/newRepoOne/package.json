@@ -11,5 +11,8 @@
     "url": "git@chenxiaolongzz:chenxiaolongzz/newRepo1.git"
   },
   "author": "chenxiaolongzz",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }

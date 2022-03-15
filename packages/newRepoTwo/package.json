@@ -11,5 +11,8 @@
     "url": "git@chenxiaolongzz:chenxiaolongzz/newRepo2.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
