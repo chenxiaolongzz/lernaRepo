@@ -1,6 +1,6 @@
 {
   "name": "newrepothree",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "lerna学习项目3",
   "main": "index.js",
   "scripts": {
