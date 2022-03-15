@@ -1,20 +1,17 @@
-0 silly argv { _: [ 'import' ],
+0 silly argv { _: [ 'create' ],
 0 silly argv   lernaVersion: '4.0.0',
 0 silly argv   '$0': '/usr/local/bin/lerna',
-0 silly argv   dir:
-0 silly argv    '/Users/heart/project-laboratory/lerna-project/newRepoOne/test-project' }
+0 silly argv   name: 'newRepoFour' }
 1 notice cli v4.0.0
 2 verbose rootPath /Users/heart/project-laboratory/lerna-demo/lerna-repo
 3 info versioning independent
-4 error Error: Command failed with exit code 128: git rev-parse HEAD
-4 error fatal: ambiguous argument 'HEAD': unknown revision or path not in the working tree.
-4 error Use '--' to separate paths from revisions, like this:
-4 error 'git <command> [<revision>...] -- [<file>...]'
-4 error HEAD
-4 error     at makeError (/usr/local/lib/node_modules/lerna/node_modules/execa/lib/error.js:60:11)
-4 error     at Function.module.exports.sync (/usr/local/lib/node_modules/lerna/node_modules/execa/index.js:194:17)
-4 error     at Object.execSync (/usr/local/lib/node_modules/lerna/node_modules/@lerna/child-process/index.js:39:16)
-4 error     at ImportCommand.execSync (/usr/local/lib/node_modules/lerna/node_modules/@lerna/import/index.js:141:25)
-4 error     at ImportCommand.getCurrentSHA (/usr/local/lib/node_modules/lerna/node_modules/@lerna/import/index.js:133:17)
-4 error     at ImportCommand.initialize (/usr/local/lib/node_modules/lerna/node_modules/@lerna/import/index.js:102:31)
-4 error     at Promise.resolve.then (/usr/local/lib/node_modules/lerna/node_modules/@lerna/command/index.js:274:24)
+4 error Error: canceled
+4 error     at Interface.<anonymous> (/Users/heart/project-laboratory/lerna-demo/lerna-repo/node_modules/read/lib/read.js:66:13)
+4 error     at Interface.emit (events.js:193:13)
+4 error     at Interface._ttyWrite (readline.js:826:16)
+4 error     at ReadStream.onkeypress (readline.js:183:10)
+4 error     at ReadStream.emit (events.js:193:13)
+4 error     at emitKeys (internal/readline.js:424:14)
+4 error     at emitKeys.next (<anonymous>)
+4 error     at ReadStream.onData (readline.js:1097:36)
+4 error     at ReadStream.emit (events.js:193:13)
