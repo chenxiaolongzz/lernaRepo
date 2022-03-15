@@ -6,13 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git@chenxiaolongzz:chenxiaolongzz/newRepo2.git"
-  },
+  "repository": "https://chenxiaolongzz/chenxiaolongzz/newRepo2.git",
   "author": "",
   "license": "ISC",
   "dependencies": {
     "lodash": "^4.17.21"
-  }
+  },
+  "gitHead": "c9c97d781ac955bcf5b5247c851243970acfe2b7"
 }
