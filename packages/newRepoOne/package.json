@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "https://chenxiaolongzz/chenxiaolongzz/newRepo1.git",
+  "repository": "https://github.com/chenxiaolongzz/newRepo1.git",
   "author": "chenxiaolongzz",
   "license": "MIT",
   "dependencies": {
