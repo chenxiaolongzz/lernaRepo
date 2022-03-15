@@ -1,0 +1,16 @@
+{
+  "name": "newrepoone",
+  "version": "1.0.4",
+  "description": "newrepoone",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chenxiaolongzz/newRepo1.git",
+  "author": "chenxiaolongzz",
+  "license": "MIT",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "gitHead": "a9379e7d6c244addfdd365f03f10cab7b0ec68a6"
+}

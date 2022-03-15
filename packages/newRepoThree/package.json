@@ -1,0 +1,16 @@
+{
+  "name": "newrepothree",
+  "version": "1.0.4",
+  "description": "lerna学习项目3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/chenxiaolongzz/newRepo3.git",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "gitHead": "a9379e7d6c244addfdd365f03f10cab7b0ec68a6"
+}
